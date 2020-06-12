@@ -1,5 +1,5 @@
 #Ucitavanje data seta
-data <- read.csv("world-happiness-report-2017.csv")
+data <- read.csv("datasets/world-happiness-report-2017.csv")
 str(data)
 summary(data)
 set.seed(10)

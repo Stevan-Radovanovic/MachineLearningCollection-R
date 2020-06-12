@@ -1,5 +1,5 @@
 #Ukloniti NA
-data <- read.csv("world-happiness-report-2017.csv")
+data <- read.csv("datasets/world-happiness-report-2017.csv")
 str(data)
 summary(data)
 data$Country <- NULL
