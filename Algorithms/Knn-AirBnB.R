@@ -62,7 +62,7 @@ standardized <- as.data.frame(apply(data[,-c(3,8)],2,function(x) scale(x,center=
 standardized$expensive <- data$expensive
 str(standardized)
 summary(standardized)
-#Iz nekog razloga bedroom nece da se standardizuje
+#Iz nekog razloga bedrooms nece da se standardizuje
 #Izbacicu je ali nemam ideju zasto daje NaN i inf vrednosti
 
 #Podela dataseta

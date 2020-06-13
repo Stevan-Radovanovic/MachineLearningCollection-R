@@ -1,0 +1,52 @@
+Sređivanje podataka
+-Normalno distribuarne numeričke NA - menjamo sa srednjom vrednošću
+-Ne-normalno distribuirane numeričke NA - menjamo sa medijanom
+-Kategoričke NA - menjamo sa najzastupljenijom vrednošću
+
+Linearna regresija
+-Pravljenje korelacione matrice
+-Odabir varijabli koje su u jakoj korelaciji sa zavisnom promenljivom
+-Podela data seta
+-Pravljenje modela
+-Tumačenje modela (Da li su prediktori značajni i kolika je R vrednost)
+-Crtanje 4 plota
+-Pravljenje predikcija
+-Računanje rss, tss, r-squared i rmse
+
+Klasifikaciono drvo
+-Pravljenje faktorske varijable
+-Podela data seta
+-Određivanje optimalnog cp
+-Pravljenje modela
+-Crtanje modela
+-Pravljenje predikcija
+-Pravljenje matrice konfuzije
+
+Knn
+-Pravljenje faktorske varijable
+-Standardizacija numeričkih, u zavisnosti od raspodele
+-Prebacivanje ordinalnih kategoričkih u numeričke
+-Određivanje optimalnog k
+-Podela data seta
+-Pravljenje modela
+-Pravljenje matrice konfuzije
+
+Naivni Bajes
+-Pravljenje faktorske varijable
+-Diskretizacija ne-normalno raspoređenih numeričkih
+-Podela data seta
+-Pravljenje modela
+-Pravljenje raw predikcija
+-Crtanje roc krive
+-Određivanje thresholda
+-Pravljenje novih predikcija
+-Pravljenje novog modela
+-Pravljenje matrice konfuzije
+
+K-Means
+-Uklanjanje autlajera
+-Normalizacija numeričkih
+-Određivanje optimalmnog K elbow metodom
+-Pravljenje modela
+
+
